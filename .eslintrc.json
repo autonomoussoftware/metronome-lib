@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "bloq"
+  ],
+  "plugins": [
+    "prefer-arrow"
+  ],
+  "root": true,
+  "rules": {
+    "prefer-arrow/prefer-arrow-functions": ["warn", { "disallowPrototype": false, "singleReturnOnly": true }]
+  }
+}

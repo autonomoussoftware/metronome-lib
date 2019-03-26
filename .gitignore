@@ -1,0 +1,7 @@
+.env
+.eslintcache
+.nyc_output
+coverage
+es5
+node_modules
+npm-debug.log
